@@ -355,4 +355,33 @@ footer {
 }
 
 
+@media only screen and (max-width: 1000px)
+{
+  .wrapper
+  {
+    width: 90%;
+  }
+}
+
+
+@media only screen and (max-width: 855px)
+{
+  .col-3 p
+  {
+    column-count: 2;
+  }
+  #navbar
+  {
+    font-size: 0.8em
+  }
+  .col-1, .col-2, .col-3
+  {
+    width: 100%;
+  }
+  
+}
+
+
+
+
 
