@@ -21,3 +21,7 @@ As always, make sure to add, commit and push any work you've done on a personal
 repository!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/adding-responsive-features' title='Responsive Features Code-Along'>Responsive Features Code-Along</a> on Learn.co and start learning to code for free.</p>
+
+
+
+* I did it with my Code-Along project.
